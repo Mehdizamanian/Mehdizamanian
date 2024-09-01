@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**Mehdizamanian/Mehdizamanian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm a web developer and I use Django
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
