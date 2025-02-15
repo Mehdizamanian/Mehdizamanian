@@ -1,6 +1,6 @@
 
   # Full-Stack Web Developer
 
-- 🌱  Hi There ,
-      I'm Mahdi but everybody calls me Mehdi <br/>
-      I'm excited about the possibilities that coding presents and the impact it can have on the world. From creating innovative solutions to important issues, to improving efficiency and productivity in businesses,       developing has the power to change lives. I'm eager to be a part of this exciting field and contribute to its growth and development.
+  
+a Full-Stack web developer familiar with the 
+frontend and backend  in designing and implementing web-based software and various services, I am interested in improving my knowledge and skills in the field of information technology and looking for challenging opportunities in a leading company to help grow and develop innovative products. I am committed to creating creative solutions and improving software development processes.
