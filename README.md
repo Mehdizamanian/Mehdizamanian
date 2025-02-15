@@ -11,7 +11,7 @@ frontend and backend  in designing and implementing web-based software and vario
 deployed Back-end projects
 <a href="http://zamanianmehdi23blogproject.pythonanywhere.com/#"> 👉 click here </a> . back-end repo  <a href="https://github.com/Mehdizamanian?tab=repositories">📑</a>
 <br/><br/><br/>
-deployed Front-end projects
+go to  Front-end projects
 <a href="https://mahdizamanian.onrender.com/"> 👉 click here </a>. front-end repo  <a href="https://github.com/meytizn?tab=repositories">📑</a>
 <br/>
 
